@@ -135,18 +135,93 @@ ls,dir,vdir,mkdir,mknod,mkfifo,cp,rm,mv,chmod等等
 
 ![](img/1_4.png)
 
+
+
+#### 3.2.5 文件权限
+
+每个文件有三组rwx（read,write,execute）组成，分别表示拥有者，当前用户组，其他用户对该文件的权限。
+
+root用户可以拿到任何文件的所有权限。
+
+##### 3.2.5.1 ls -l命令
+
+```cmd
+tondiyee@tdy-linux:~$ ls a.txt -l
+-rwxrwxrwx 1 tondiyee tondiyee 0 12月 16 14:08 a.txt
+```
+
+第一组10个字母：文件类型+9个权限
+
+第二组1个数字：连接计数（后面还会涉及）
+
+第三组和第四组：拥有者和拥有者所在用户组
+
+第五组：文件大小（字节）
+
+第六组：修改时间
+
+第七组：文件名
+
+##### 3.2.5.2 修改权限
+
+```cmd
+chmod <order> 文件名
+```
+
+- \<order\> 写成xxx：第一位8进制数字表示拥有者的权限，第二位是用户组权限，第三位是其他用户的权限
+- \<order\> 写成u+w（g-x,o=x等等）：表示user，group，other添加或修改权限等等
+
+##### 3.2.5.3 默认权限
+
+普通文件是644（当前用户读写，其他用户只读），普通目录是755（当前用户读写执行，其他用户读执行）
+
+目录比普通文件权限高的原因是因为目录决定了子文件的最高权限
+
+#### 3.2.6 文件编辑
+
+命令行：vi，emacs
+
+图形界面：gedit
+
 ### 3.3 使用进程
 
 进程是一个正在执行的程序实例。由执行程序、它的当前值、状态信息以及通过操作系统管理此进程执行情况的资源组成。
 
 - 一个正在执行的程序是一个进程的例子
-- 一个shell是一个进程，它阅读你的指令，并开始适当的进程
+- 命令行本事也是一个进程，叫做shell进程，它阅读你的指令，并开始其他的命令进程（执行bin文件夹下的可执行程序）
+- 进程被保存的内容：程序名，当前用户id，当前用户组id，进程id，时间，父进程id，程序变量数据，进程打开的文件，进程运行的目录。
 - 所有的进程都是有其他进程创建并开启的
 - 一个进程被终止的原因有两个
   - 这个进程已经做完了
   - 其他进程发送信号给这个进程使其终止
+  - 命令：**ps,pstree**,jobs/fg/bg/\<ctrl+z\>,kill,nohup(忽略某些信号)，nice/renice(重新设置优先级),top
+
+>哪种情况下会没有父进程id？
+>
+>linux中只有一个进程没有父进程id，那个进程是initid(ubuntu下是systemd)
 
 ## 4 Unix概述
 
 ![](img/1_5.png)
+
+## 5 Linux命令
+
+### 5.1 文件操作
+
+- 列出目录内容: ls, dir, vdir
+- 创建特殊文件: mkdir, mknod, mkfifo
+- 文件操作: cp, mv, rm
+- 修改文件属性: chmod, chown, chgrp, touch
+- 查找文件: locate, find
+- 字符串匹配: grep(egrep)
+- 其它: pwd, cd, ar, file, tar, more, less, head, tail,cat
+
+### 5.2 进程操作
+
+- ps，pstree，kill，jobs，fg，bg，nice
+
+### 5.3 其他
+
+- who，whoami，passwd，su，uname
+- man
 
