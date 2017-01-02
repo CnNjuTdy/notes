@@ -251,9 +251,117 @@ done
 
 #### 3.3.2 while循环
 
+> 看ttkp错过了不过看起来比较简单啊
+
 #### 3.3.3 until循环
+
+> 看ttkp错过了不过看起来比较简单啊
 
 #### 3.3.1 select循环
 
+> 看ttkp错过了不过看起来比较简单啊
+
+### 3.4 命令表和语句块
+
+#### 3.4.1命令表
+
+- 分号串联:command1 ; command2 ;
+- 条件串联:
+  - and命令:statement1&&statement2&&statement3&&statement4
+  - or命令:statement1||statement2||statement3||statement4
+
+#### 3.4.2语句块
+
+```cmd
+{
+statement1
+statement2
+...
+}
+{statement1; statement2 ; ... ;}
+```
+
+### 3.5 函数
+
+#### 3.5.1形式
+
+```shell
+func(){
+	statements
+}
+```
+
+#### 3.5.2局部变量
+
+- local关键字
+
+#### 3.5.3函数调用
+
+```shell
+func param1 param2
+```
+
+#### 3.5.4 返回
+
+```shell
+return ;
+```
+
+#### 3.5.5 例子
+
+```shell
+yesno(){
+	msg=“$1”
+	def=“$2”
+	while true; do
+		echo ” ”
+		echo “$msg”
+		read answer
+		if [ -n “$answer” ]; then
+			case “$answer” in
+                y|Y|yes|YES)
+                return 0
+                ;;
+                n|N|no|NO)
+                return 1
+                ;;
+                *)
+                echo “ ”
+                echo “ERROR: Invalid response,
+                expected \”yes\” or \”no\”.”
+                continue
+                ;;
+esac
+		else
+			return $def
+		fi
+	done
+}
+```
+###3.6 杂项命令
+
+- break: 从for/while/until循环退出
+- continue: 跳到下一个循环继续执行
+- exit n: 以退出码”n”退出脚本运行
+- return: 函数返回
+- export: 将变量导出到shell,使之成为shell的环境变量
+- set: 为shell设置参数变量
+- unset: 从环境中删除变量或函数
+- trap: 指定在收到操作系统信号后执行的动作
+- “:”(冒号命令): 空命令
+- “.”(句点命令)或source: 在当前shell中执行命令
+- 捕获命令输出:$(command)或者\`command\`
+
+### 3.7 算数拓展
+
+- $((...))扩展
+
+### 3.8 参数扩展
+
+![](img/2_2.png)
 
 
+
+### 3.9 即时文档
+
+双小于号<<被称为即时文档,脚本文件从键盘获取输入,但输入在开始时一起输入,存于临时文档中.
