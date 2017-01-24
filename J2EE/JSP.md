@@ -66,6 +66,4 @@ out.print("Hello World!");
 </body>
 </html>
 </jsp:root>
-
 ```
-
