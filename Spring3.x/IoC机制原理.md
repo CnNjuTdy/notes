@@ -129,4 +129,4 @@ Spring框架中，我们常说的IoC容器指的是`BeanFactory`这个接口。B
 
 《Spring3.x企业级应用开发实战》第三章第四章                                                                陈雄华，林开雄 电子工业出版社2012.2
 
-有兴趣的同学也可以参考我对上面这本书的[笔记](https://github.com/CnNjuTdy/notes/blob/master/Spring3.x/%E7%AC%94%E8%AE%B03.md)
+有兴趣的同学也可以参考我对上面这本书的[笔记](https://github.com/CnNjuTdy/notes/blob/master/Spring3.x/%E7%AC%94%E8%AE%B03.md)，我也写了一些代码
