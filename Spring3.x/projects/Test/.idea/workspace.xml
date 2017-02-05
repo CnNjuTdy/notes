@@ -2,59 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5775daac-08f9-49cd-a282-7e7282bd750f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Project02/.idea/junitgenerator-prj-settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Tondiyee.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_18_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_18_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_18_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_18_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_18_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_2_18_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo01/LiuDeHua.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo01/MoAttack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo02/GeLi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo02/LiuDeHua.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo02/MoAttack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo03/Director.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo03/GeLi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo03/LiuDeHua.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo03/MoAttack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo04/Director.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo04/GeLi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo04/LiuDeHua.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo04/MoAttack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo05/GeLi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo05/LiuDeHua.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo05/MoAttack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo06/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo07/TestClassLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo08/ResourceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo09/ResourceLoadTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo10/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo11/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo11/MyBeanPostProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/demo11/MyInstantiationAwareBeanPostProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resource/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resource/bean1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resource/bean2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resource/no.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resource/ok.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/demo01/TestMoAttack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/demo02/TestMoAttack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/demo03/TestDirector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/demo04/TestDirector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/demo05/TestMoAttack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/demo06/TestCar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/demo10/CarTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/demo11/BeanLifeCycle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../IoC机制原理.md" afterPath="$PROJECT_DIR$/../../IoC机制原理.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,14 +29,10 @@
       <file leaf-file-name="AbstractBeanFactory.java" pinned="false" current-in-tab="true">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.18.RELEASE/spring-beans-3.2.18.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
+            <state relative-caret-position="516">
               <caret line="1456" column="37" selection-start-line="1456" selection-start-column="37" selection-end-line="1456" selection-end-column="37" />
               <folding>
                 <element signature="docComment;field#beanClassLoader#0;class#AbstractBeanFactory#0" expanded="false" />
-                <element signature="e#12563#13090#0" expanded="true" />
-                <element signature="e#13089#13090#0" expanded="true" />
-                <element signature="e#13853#14143#0" expanded="true" />
-                <element signature="e#14142#14143#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,7 +41,7 @@
       <file leaf-file-name="FactoryBeanRegistrySupport.java" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.18.RELEASE/spring-beans-3.2.18.RELEASE-sources.jar!/org/springframework/beans/factory/support/FactoryBeanRegistrySupport.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
+            <state relative-caret-position="1350">
               <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
               <folding>
                 <element signature="e#1872#1888#0" expanded="true" />
@@ -118,33 +63,10 @@
       <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/demo06/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
+            <state relative-caret-position="850">
               <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
               <folding>
                 <element signature="e#911#912#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BeanFactory.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.18.RELEASE/spring-beans-3.2.18.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
-              <folding>
-                <element signature="docComment;class#BeanFactory#0" expanded="false" />
-                <element signature="docComment;field#FACTORY_BEAN_PREFIX#0;class#BeanFactory#0" expanded="false" />
-                <element signature="docComment;method#getBean#0;class#BeanFactory#0" expanded="false" />
-                <element signature="docComment;method#getBean#1;class#BeanFactory#0" expanded="false" />
-                <element signature="docComment;method#getBean#2;class#BeanFactory#0" expanded="false" />
-                <element signature="docComment;method#getBean#3;class#BeanFactory#0" expanded="false" />
-                <element signature="docComment;method#containsBean#0;class#BeanFactory#0" expanded="false" />
-                <element signature="docComment;method#isSingleton#0;class#BeanFactory#0" expanded="false" />
-                <element signature="docComment;method#isPrototype#0;class#BeanFactory#0" expanded="false" />
-                <element signature="docComment;method#isTypeMatch#0;class#BeanFactory#0" expanded="false" />
-                <element signature="docComment;method#getType#0;class#BeanFactory#0" expanded="false" />
-                <element signature="docComment;method#getAliases#0;class#BeanFactory#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -309,6 +231,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -490,7 +413,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1097,7 +1019,8 @@
       <workItem from="1485280050013" duration="13719000" />
       <workItem from="1485548659436" duration="4943000" />
       <workItem from="1485554327910" duration="18564000" />
-      <workItem from="1486316029369" duration="4965000" />
+      <workItem from="1486316029369" duration="5565000" />
+      <workItem from="1486324826390" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="添加">
       <created>1485274588521</created>
@@ -1142,7 +1065,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45159000" />
+    <option name="totallyTimeSpent" value="45762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1154,8 +1077,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3410596" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294702" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1248,6 +1171,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
           <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1263,246 +1187,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-13024">
           <caret line="118" column="21" selection-start-line="118" selection-start-column="21" selection-end-line="118" selection-end-column="21" />
-          <folding>
-            <element signature="docComment;class#Class#0" expanded="false" />
-            <element signature="initializer##0;class#Class#0" expanded="false" />
-            <element signature="method#Class#0;class#Class#0" expanded="false" />
-            <element signature="e#4399#4479#0" expanded="false" />
-            <element signature="docComment;method#toString#0;class#Class#0" expanded="false" />
-            <element signature="method#toString#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#toGenericString#0;class#Class#0" expanded="false" />
-            <element signature="method#toGenericString#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#forName#0;class#Class#0" expanded="false" />
-            <element signature="method#forName#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#forName#1;class#Class#0" expanded="false" />
-            <element signature="method#forName#1;class#Class#0" expanded="false" />
-            <element signature="e#12531#12606#0" expanded="false" />
-            <element signature="docComment;method#forName0#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#newInstance#0;class#Class#0" expanded="false" />
-            <element signature="method#newInstance#0;class#Class#0" expanded="false" />
-            <element signature="e#15633#15694#0" expanded="false" />
-            <element signature="e#16168#16218#0" expanded="false" />
-            <element signature="class#16484:16724" expanded="false" />
-            <element signature="method#run#0;class#16484:16724" expanded="false" />
-            <element signature="docComment;method#isInstance#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isAssignableFrom#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isInterface#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isArray#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isPrimitive#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isAnnotation#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isSynthetic#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getName#0;class#Class#0" expanded="false" />
-            <element signature="method#getName#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getClassLoader#0;class#Class#0" expanded="false" />
-            <element signature="method#getClassLoader#0;class#Class#0" expanded="false" />
-            <element signature="method#getClassLoader0#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getTypeParameters#0;class#Class#0" expanded="false" />
-            <element signature="method#getTypeParameters#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getSuperclass#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getGenericSuperclass#0;class#Class#0" expanded="false" />
-            <element signature="method#getGenericSuperclass#0;class#Class#0" expanded="false" />
-            <element signature="e#31562#31589#0" expanded="false" />
-            <element signature="docComment;method#getPackage#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getInterfaces#0;class#Class#0" expanded="false" />
-            <element signature="method#getInterfaces#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getGenericInterfaces#0;class#Class#0" expanded="false" />
-            <element signature="method#getGenericInterfaces#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getComponentType#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getModifiers#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getSigners#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#setSigners#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getEnclosingMethod#0;class#Class#0" expanded="false" />
-            <element signature="method#getEnclosingMethod#0;class#Class#0" expanded="false" />
-            <element signature="e#42463#42515#0" expanded="false" />
-            <element signature="method#getEnclosingMethodInfo#0;class#Class#0" expanded="false" />
-            <element signature="class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
-            <element signature="method#EnclosingMethodInfo#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
-            <element signature="e#44997#45045#0" expanded="false" />
-            <element signature="e#45225#45277#0" expanded="false" />
-            <element signature="e#45397#45449#0" expanded="false" />
-            <element signature="method#isConstructor#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
-            <element signature="method#isMethod#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
-            <element signature="method#getEnclosingClass#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
-            <element signature="method#getName#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
-            <element signature="method#getDescriptor#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
-            <element signature="method#toClass#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getEnclosingConstructor#0;class#Class#0" expanded="false" />
-            <element signature="method#getEnclosingConstructor#0;class#Class#0" expanded="false" />
-            <element signature="e#48886#48938#0" expanded="false" />
-            <element signature="docComment;method#getDeclaringClass#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaringClass#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getEnclosingClass#0;class#Class#0" expanded="false" />
-            <element signature="method#getEnclosingClass#0;class#Class#0" expanded="false" />
-            <element signature="e#52430#52481#0" expanded="false" />
-            <element signature="docComment;method#getSimpleName#0;class#Class#0" expanded="false" />
-            <element signature="method#getSimpleName#0;class#Class#0" expanded="false" />
-            <element signature="e#54606#54667#0" expanded="false" />
-            <element signature="docComment;method#getTypeName#0;class#Class#0" expanded="false" />
-            <element signature="method#getTypeName#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isAsciiDigit#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getCanonicalName#0;class#Class#0" expanded="false" />
-            <element signature="method#getCanonicalName#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isAnonymousClass#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isLocalClass#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isMemberClass#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getSimpleBinaryName#0;class#Class#0" expanded="false" />
-            <element signature="method#getSimpleBinaryName#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isLocalOrAnonymousClass#0;class#Class#0" expanded="false" />
-            <element signature="method#isLocalOrAnonymousClass#0;class#Class#0" expanded="false" />
-            <element signature="e#59768#59823#0" expanded="false" />
-            <element signature="docComment;method#getClasses#0;class#Class#0" expanded="false" />
-            <element signature="method#getClasses#0;class#Class#0" expanded="false" />
-            <element signature="e#61299#61365#0" expanded="false" />
-            <element signature="class#61737:62511" expanded="false" />
-            <element signature="method#run#0;class#61737:62511" expanded="false" />
-            <element signature="docComment;method#getFields#0;class#Class#0" expanded="false" />
-            <element signature="method#getFields#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getMethods#0;class#Class#0" expanded="false" />
-            <element signature="method#getMethods#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getConstructors#0;class#Class#0" expanded="false" />
-            <element signature="method#getConstructors#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getField#0;class#Class#0" expanded="false" />
-            <element signature="method#getField#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getMethod#0;class#Class#0" expanded="false" />
-            <element signature="method#getMethod#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getConstructor#0;class#Class#0" expanded="false" />
-            <element signature="method#getConstructor#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredClasses#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredClasses#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredFields#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredFields#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredMethods#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredMethods#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredConstructors#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredConstructors#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredField#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredField#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredMethod#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredMethod#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredConstructor#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredConstructor#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getResourceAsStream#0;class#Class#0" expanded="false" />
-            <element signature="method#getResourceAsStream#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getResource#0;class#Class#0" expanded="false" />
-            <element signature="method#getResource#0;class#Class#0" expanded="false" />
-            <element signature="docComment;field#allPermDomain#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getProtectionDomain#0;class#Class#0" expanded="false" />
-            <element signature="method#getProtectionDomain#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getProtectionDomain0#0;class#Class#0" expanded="false" />
-            <element signature="method#checkMemberAccess#0;class#Class#0" expanded="false" />
-            <element signature="method#checkPackageAccess#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#resolveName#0;class#Class#0" expanded="false" />
-            <element signature="method#resolveName#0;class#Class#0" expanded="false" />
-            <element signature="docComment;class#Atomic#0;class#Class#0" expanded="false" />
-            <element signature="class#Atomic#0;class#Class#0" expanded="false" />
-            <element signature="initializer##0;class#Atomic#0;class#Class#0" expanded="false" />
-            <element signature="method#objectFieldOffset#0;class#Atomic#0;class#Class#0" expanded="false" />
-            <element signature="method#casReflectionData#0;class#Atomic#0;class#Class#0" expanded="false" />
-            <element signature="method#casAnnotationType#0;class#Atomic#0;class#Class#0" expanded="false" />
-            <element signature="method#casAnnotationData#0;class#Atomic#0;class#Class#0" expanded="false" />
-            <element signature="docComment;field#useCaches#0;class#Class#0" expanded="false" />
-            <element signature="class#ReflectionData#0;class#Class#0" expanded="false" />
-            <element signature="method#reflectionData#0;class#Class#0" expanded="false" />
-            <element signature="e#105269#105342#0" expanded="false" />
-            <element signature="method#newReflectionData#0;class#Class#0" expanded="false" />
-            <element signature="method#getFactory#0;class#Class#0" expanded="false" />
-            <element signature="method#getGenericInfo#0;class#Class#0" expanded="false" />
-            <element signature="method#getExecutableTypeAnnotationBytes#0;class#Class#0" expanded="false" />
-            <element signature="e#107634#107636#0" expanded="false" />
-            <element signature="method#privateGetDeclaredFields#0;class#Class#0" expanded="false" />
-            <element signature="method#privateGetPublicFields#0;class#Class#0" expanded="false" />
-            <element signature="e#109023#109079#0" expanded="false" />
-            <element signature="method#addAll#0;class#Class#0" expanded="false" />
-            <element signature="e#110257#110259#0" expanded="false" />
-            <element signature="method#privateGetDeclaredConstructors#0;class#Class#0" expanded="false" />
-            <element signature="e#111426#111428#0" expanded="false" />
-            <element signature="method#privateGetDeclaredMethods#0;class#Class#0" expanded="false" />
-            <element signature="class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#MethodArray#1;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#add#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#addAll#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#addAll#1;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#addIfNotPresent#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#addAllIfNotPresent#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#addInterfaceMethods#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#getFirst#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#removeByNameAndDescriptor#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#remove#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#matchesNameAndDescriptor#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#compactAndTrim#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#removeLessSpecifics#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#hasMoreSpecificClass#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#privateGetPublicMethods#0;class#Class#0" expanded="false" />
-            <element signature="e#117978#118034#0" expanded="false" />
-            <element signature="e#118258#118314#0" expanded="false" />
-            <element signature="e#118901#118946#0" expanded="false" />
-            <element signature="e#119370#119417#0" expanded="false" />
-            <element signature="e#120111#120113#0" expanded="false" />
-            <element signature="method#searchFields#0;class#Class#0" expanded="false" />
-            <element signature="method#getField0#0;class#Class#0" expanded="false" />
-            <element signature="e#120605#120666#0" expanded="false" />
-            <element signature="method#searchMethods#0;class#Class#0" expanded="false" />
-            <element signature="method#getMethod0#0;class#Class#0" expanded="false" />
-            <element signature="method#privateGetMethodRecursive#0;class#Class#0" expanded="false" />
-            <element signature="e#123201#123262#0" expanded="false" />
-            <element signature="method#getConstructor0#0;class#Class#0" expanded="false" />
-            <element signature="e#125621#125623#0" expanded="false" />
-            <element signature="method#arrayContentsEq#0;class#Class#0" expanded="false" />
-            <element signature="method#copyFields#0;class#Class#0" expanded="false" />
-            <element signature="method#copyMethods#0;class#Class#0" expanded="false" />
-            <element signature="method#copyConstructors#0;class#Class#0" expanded="false" />
-            <element signature="method#argumentTypesToString#0;class#Class#0" expanded="false" />
-            <element signature="docComment;field#serialVersionUID#0;class#Class#0" expanded="false" />
-            <element signature="docComment;field#serialPersistentFields#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#desiredAssertionStatus#0;class#Class#0" expanded="false" />
-            <element signature="method#desiredAssertionStatus#0;class#Class#0" expanded="false" />
-            <element signature="e#130401#130462#0" expanded="false" />
-            <element signature="docComment;method#isEnum#0;class#Class#0" expanded="false" />
-            <element signature="method#isEnum#0;class#Class#0" expanded="false" />
-            <element signature="e#131183#131243#0" expanded="false" />
-            <element signature="method#getReflectionFactory#0;class#Class#0" expanded="false" />
-            <element signature="method#checkInitted#0;class#Class#0" expanded="false" />
-            <element signature="class#132125:133355" expanded="false" />
-            <element signature="method#run#0;class#132125:133355" expanded="false" />
-            <element signature="e#132208#132263#0" expanded="false" />
-            <element signature="docComment;method#getEnumConstants#0;class#Class#0" expanded="false" />
-            <element signature="method#getEnumConstants#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getEnumConstantsShared#0;class#Class#0" expanded="false" />
-            <element signature="method#getEnumConstantsShared#0;class#Class#0" expanded="false" />
-            <element signature="class#134420:134665" expanded="false" />
-            <element signature="method#run#0;class#134420:134665" expanded="false" />
-            <element signature="e#134860#134916#0" expanded="false" />
-            <element signature="docComment;method#enumConstantDirectory#0;class#Class#0" expanded="false" />
-            <element signature="method#enumConstantDirectory#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#cast#0;class#Class#0" expanded="false" />
-            <element signature="method#cast#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#asSubclass#0;class#Class#0" expanded="false" />
-            <element signature="method#asSubclass#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getAnnotation#0;class#Class#0" expanded="false" />
-            <element signature="method#getAnnotation#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isAnnotationPresent#0;class#Class#0" expanded="false" />
-            <element signature="method#isAnnotationPresent#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getAnnotationsByType#0;class#Class#0" expanded="false" />
-            <element signature="method#getAnnotationsByType#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getAnnotations#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredAnnotation#0;class#Class#0" expanded="false" />
-            <element signature="e#139715#139724#0" expanded="false" />
-            <element signature="method#getDeclaredAnnotation#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredAnnotationsByType#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredAnnotationsByType#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredAnnotations#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredAnnotations#0;class#Class#0" expanded="false" />
-            <element signature="class#AnnotationData#0;class#Class#0" expanded="false" />
-            <element signature="method#AnnotationData#0;class#AnnotationData#0;class#Class#0" expanded="false" />
-            <element signature="method#annotationData#0;class#Class#0" expanded="false" />
-            <element signature="method#createAnnotationData#0;class#Class#0" expanded="false" />
-            <element signature="method#casAnnotationType#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredAnnotationMap#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getAnnotatedSuperclass#0;class#Class#0" expanded="false" />
-            <element signature="method#getAnnotatedSuperclass#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getAnnotatedInterfaces#0;class#Class#0" expanded="false" />
-            <element signature="method#getAnnotatedInterfaces#0;class#Class#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1602,7 +1286,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="524">
           <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1624,7 +1307,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-251">
           <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1671,9 +1353,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
           <caret line="33" column="57" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1681,7 +1360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-114">
           <caret line="476" column="16" selection-start-line="476" selection-start-column="16" selection-end-line="476" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1689,9 +1367,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1707,9 +1382,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1717,7 +1389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1751,7 +1422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
           <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1765,7 +1435,7 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.18.RELEASE/spring-beans-3.2.18.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
+        <state relative-caret-position="375">
           <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
           <folding>
             <element signature="docComment;class#BeanFactory#0" expanded="false" />
@@ -1788,9 +1458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89">
           <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1798,7 +1465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3941">
           <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1812,7 +1478,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo06/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
+        <state relative-caret-position="850">
           <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
           <folding>
             <element signature="e#911#912#0" expanded="true" />
@@ -1824,7 +1490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="54" column="50" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1832,101 +1497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
           <caret line="99" column="54" selection-start-line="99" selection-start-column="54" selection-end-line="99" selection-end-column="54" />
-          <folding>
-            <element signature="docComment;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="initializer##0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#serializableFactories#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#serializationId#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#allowBeanDefinitionOverriding#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#allowEagerClassLoading#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#autowireCandidateResolver#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#resolvableDependencies#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#beanDefinitionMap#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#allBeanNamesByType#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#singletonBeanNamesByType#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#beanDefinitionNames#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#configurationFrozen#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#frozenBeanDefinitionNames#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#DefaultListableBeanFactory#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#DefaultListableBeanFactory#1;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#setSerializationId#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#setSerializationId#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#setAllowBeanDefinitionOverriding#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#setAllowBeanDefinitionOverriding#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#setAllowEagerClassLoading#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#setAllowEagerClassLoading#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#setAutowireCandidateResolver#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#setAutowireCandidateResolver#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#getAutowireCandidateResolver#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#copyConfigurationFrom#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="e#10425#10496#0" expanded="false" />
-            <element signature="method#getBean#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#containsBeanDefinition#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#getBeanDefinitionNames#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#getBeanNamesForType#1;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#doGetBeanNamesForType#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="e#13749#13799#0" expanded="false" />
-            <element signature="docComment;method#requiresEagerInitForType#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#requiresEagerInitForType#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#getBeansOfType#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#getBeansOfType#1;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="e#17980#18051#0" expanded="false" />
-            <element signature="method#getBeansWithAnnotation#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#findAnnotationOnBean#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#findAnnotationOnBean#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="e#19834#19905#0" expanded="false" />
-            <element signature="method#registerResolvableDependency#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#isAutowireCandidate#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#isAutowireCandidate#1;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#isAutowireCandidate#1;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#getBeanDefinition#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#freezeConfiguration#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#isBeanEligibleForMetadataCaching#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#isBeanEligibleForMetadataCaching#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#preInstantiateSingletons#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="e#23839#23932#0" expanded="false" />
-            <element signature="e#25057#25128#0" expanded="false" />
-            <element signature="method#registerBeanDefinition#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#removeBeanDefinition#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#resetBeanDefinition#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#resetBeanDefinition#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="e#27772#27848#0" expanded="false" />
-            <element signature="docComment;method#allowAliasOverriding#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#registerSingleton#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#destroySingleton#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#clearByTypeCache#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#clearByTypeCache#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="e#29044#29115#0" expanded="false" />
-            <element signature="method#resolveDependency#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#doResolveDependency#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#findAutowireCandidates#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#findAutowireCandidates#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#determinePrimaryCandidate#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#determinePrimaryCandidate#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#isPrimary#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#isPrimary#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#matchesBeanName#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#matchesBeanName#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#raiseNoSuchBeanDefinitionException#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#raiseNoSuchBeanDefinitionException#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#toString#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="e#39546#39617#0" expanded="false" />
-            <element signature="method#readObject#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#writeReplace#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;class#SerializedBeanFactoryReference#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="class#SerializedBeanFactoryReference#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#readResolve#0;class#SerializedBeanFactoryReference#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;class#DependencyObjectFactory#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="class#DependencyObjectFactory#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#DependencyObjectFactory#0;class#DependencyObjectFactory#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#getObject#0;class#DependencyObjectFactory#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;class#DependencyProvider#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="class#DependencyProvider#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#get#0;class#DependencyProvider#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="docComment;class#DependencyProviderFactory#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="class#DependencyProviderFactory#0;class#DefaultListableBeanFactory#0" expanded="false" />
-            <element signature="method#createDependencyProvider#0;class#DependencyProviderFactory#0;class#DefaultListableBeanFactory#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1934,122 +1504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="115" column="74" selection-start-line="115" selection-start-column="74" selection-end-line="115" selection-end-column="74" />
-          <folding>
-            <element signature="docComment;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#instantiationStrategy#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#parameterNameDiscoverer#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#allowCircularReferences#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#allowRawInjectionDespiteWrapping#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#ignoredDependencyTypes#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#ignoredDependencyInterfaces#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#factoryBeanInstanceCache#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;field#filteredPropertyDescriptorsCache#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#AbstractAutowireCapableBeanFactory#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#AbstractAutowireCapableBeanFactory#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#AbstractAutowireCapableBeanFactory#1;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#AbstractAutowireCapableBeanFactory#1;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#setInstantiationStrategy#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#setInstantiationStrategy#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#getInstantiationStrategy#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#setParameterNameDiscoverer#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#setParameterNameDiscoverer#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#getParameterNameDiscoverer#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#setAllowCircularReferences#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#setAllowCircularReferences#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#setAllowRawInjectionDespiteWrapping#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#setAllowRawInjectionDespiteWrapping#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#ignoreDependencyType#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#ignoreDependencyInterface#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#copyConfigurationFrom#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="e#12175#12250#0" expanded="false" />
-            <element signature="method#autowireBean#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#configureBean#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#resolveDependency#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="e#14271#14346#0" expanded="false" />
-            <element signature="method#createBean#1;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#autowire#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#autowireBeanProperties#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#applyBeanPropertyValues#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#initializeBean#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#applyBeanPostProcessorsBeforeInitialization#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#applyBeanPostProcessorsAfterInitialization#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="e#17776#17847#0" expanded="false" />
-            <element signature="docComment;method#createBean#2;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#createBean#2;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#doCreateBean#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#doCreateBean#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="e#20886#20955#0" expanded="false" />
-            <element signature="method#predictBeanType#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="e#24151#24216#0" expanded="false" />
-            <element signature="docComment;method#getTypeForFactoryMethod#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#getTypeForFactoryMethod#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="e#26490#26560#0" expanded="false" />
-            <element signature="docComment;method#getTypeForFactoryBean#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#getTypeForFactoryBean#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="class#29913:29952" expanded="false" />
-            <element signature="e#30609#30682#0" expanded="false" />
-            <element signature="e#31670#31721#0" expanded="false" />
-            <element signature="docComment;method#getEarlyBeanReference#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#getEarlyBeanReference#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="e#32839#32910#0" expanded="false" />
-            <element signature="docComment;method#getSingletonFactoryBeanForTypeCheck#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#getSingletonFactoryBeanForTypeCheck#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#getNonSingletonFactoryBeanForTypeCheck#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#getNonSingletonFactoryBeanForTypeCheck#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#applyMergedBeanDefinitionPostProcessors#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#applyMergedBeanDefinitionPostProcessors#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#resolveBeforeInstantiation#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#resolveBeforeInstantiation#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#applyBeanPostProcessorsBeforeInstantiation#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#applyBeanPostProcessorsBeforeInstantiation#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#createBeanInstance#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#createBeanInstance#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#determineConstructorsFromBeanPostProcessors#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#determineConstructorsFromBeanPostProcessors#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#instantiateBean#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#instantiateBean#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#instantiateUsingFactoryMethod#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#instantiateUsingFactoryMethod#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#autowireConstructor#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#autowireConstructor#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#populateBean#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#populateBean#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="e#45691#45769#0" expanded="false" />
-            <element signature="docComment;method#autowireByName#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#autowireByName#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#autowireByType#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#autowireByType#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="e#50350#50417#0" expanded="false" />
-            <element signature="docComment;method#unsatisfiedNonSimpleProperties#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#unsatisfiedNonSimpleProperties#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#filterPropertyDescriptorsForDependencyCheck#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#filterPropertyDescriptorsForDependencyCheck#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#filterPropertyDescriptorsForDependencyCheck#1;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#filterPropertyDescriptorsForDependencyCheck#1;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#isExcludedFromDependencyCheck#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#isExcludedFromDependencyCheck#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#checkDependencies#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#checkDependencies#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#applyPropertyValues#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#applyPropertyValues#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="e#59010#59070#0" expanded="false" />
-            <element signature="docComment;method#convertForProperty#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#convertForProperty#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#initializeBean#1;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#initializeBean#1;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#invokeAwareMethods#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#invokeInitMethods#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#invokeInitMethods#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#invokeCustomInitMethod#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#invokeCustomInitMethod#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#postProcessObjectFromFactoryBean#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#postProcessObjectFromFactoryBean#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;method#removeSingleton#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#removeSingleton#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="docComment;class#AutowireByTypeDependencyDescriptor#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="class#AutowireByTypeDependencyDescriptor#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-            <element signature="method#AutowireByTypeDependencyDescriptor#0;class#AutowireByTypeDependencyDescriptor#0;class#AbstractAutowireCapableBeanFactory#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2063,7 +1517,7 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.18.RELEASE/spring-beans-3.2.18.RELEASE-sources.jar!/org/springframework/beans/factory/support/FactoryBeanRegistrySupport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
+        <state relative-caret-position="1350">
           <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
           <folding>
             <element signature="e#1872#1888#0" expanded="true" />
@@ -2073,14 +1527,10 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.18.RELEASE/spring-beans-3.2.18.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
+        <state relative-caret-position="516">
           <caret line="1456" column="37" selection-start-line="1456" selection-start-column="37" selection-end-line="1456" selection-end-column="37" />
           <folding>
             <element signature="docComment;field#beanClassLoader#0;class#AbstractBeanFactory#0" expanded="false" />
-            <element signature="e#12563#13090#0" expanded="true" />
-            <element signature="e#13089#13090#0" expanded="true" />
-            <element signature="e#13853#14143#0" expanded="true" />
-            <element signature="e#14142#14143#0" expanded="true" />
           </folding>
         </state>
       </provider>
