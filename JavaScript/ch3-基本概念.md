@@ -166,3 +166,15 @@ console.log(0.15+0.15 == 0.3);//true
 
 ### 3.7.1 理解参数
 
+可以使用arguments数组来访问函数的参数
+
+```javascript
+function satHi(){
+  alert("Hello,"+arguments[0]+","+arguments[1]);
+}
+sayHi("Tom","good morning!");
+//显示Hello,Tom,good morning! 
+```
+
+
+

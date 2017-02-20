@@ -14,7 +14,7 @@ IoC是Spring体系的核心，它把类和类之间的依赖从代码中脱离�
 
 ## 2. Spring中的IoC容器描述
 
-Spring框架中，我们常说的IoC容器指的是`BeanFactory`这个接口。Bean在传统的J2EE框架中也有很多描述，在Spring中，你可以暂时地认为它就是上图中的一个一个齿轮。有很多参考资料认为IoC容器是`ApplicationConetxt`这个接口，实际上这两个接口所做的事情基本上是一样的，`BeanFactory`是Spring框架的基础设施，面向Spring本身，为Spring其他功能提供接口；而ApplicationContext面向Spring框架的使用者，大部分情况下，我们都使用`ApplicationContext`而不是前者(实际上`ApplicationContext`这个接口也继承了`BeanFactory`)。因为这里追根求底，所以下面我要说的都以`BeanFactory`为例。
+Spring框架中，我们常说的IoC容器指的是`BeanFactory`这个接口。Bean在传统的J2EE框架中也有很多描述，在Spring中，你可以暂时地认为它就是上图中的一个一个齿轮，代表一个可以被别的类使用的“齿轮”。有很多参考资料认为IoC容器是`ApplicationConetxt`这个接口，实际上这两个接口所做的事情基本上是一样的，`BeanFactory`是Spring框架的基础设施，面向Spring本身，为Spring其他功能提供接口；而ApplicationContext面向Spring框架的使用者，大部分情况下，我们都使用`ApplicationContext`而不是前者(实际上`ApplicationContext`这个接口也继承了`BeanFactory`)。因为这里追根求底，所以下面我要说的都以`BeanFactory`为例。
 
 ## 3. IoC容器的启动
 
@@ -89,6 +89,8 @@ Spring框架中，我们常说的IoC容器指的是`BeanFactory`这个接口。B
         System.out.println(car);
     }
 ```
+
+使用反射机制，可以让框架更灵活地实例化对象，这也是Spring IoC容器实例对象的重要理论基础。
 
 ## 5. 源码分析-IoC中Bean的生命周期
 

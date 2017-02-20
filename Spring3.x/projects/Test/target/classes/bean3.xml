@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="boss" class="com.demo12.Boss">
+        <property name="favourite">
+            <list>
+                <value>读书</value>
+                <value>看报</value>
+                <value>写字</value>
+            </list>
+        </property>
+        <property name="family">
+            <set>
+                <value>妈妈</value>
+                <value>儿子</value>
+            </set>
+        </property>
+        <property name="mails">
+            <props>
+                <prop key="jobMail">office@baobaotao.com</prop>
+                <prop key="lifeMail">life@baobaotao.com</prop>
+            </props>
+        </property>
+    </bean>
+</beans>
