@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test</title>
+</head>
+<body>
+<p>oh3</p>
+<script>
+    function getLog(var1,var2) {
+//        var log;
+//        console.log(log==undefined);
+//        console.log(typeof log == "undefined");
+//        console.log (typeof age == "undefined");
+//        var car = null;
+//        console.log(typeof car == "object");
+//        console.log("Hello "+arguments[0]+","+arguments[1]);
+//        console.log(arguments.length);
+        arguments[1] = 100;
+        console.log(var1+var2);
+    }
+    getLog(10,20)
+    function  add(num1,num2) {
+        if(arguments.length==1){
+            return num1+100;
+        }else if(arguments.length>=2){
+            return num1+num2;
+        }else {
+            return "no arguments"
+        }
+    }
+</script>
+</body>
+</html>

@@ -171,10 +171,37 @@ console.log(0.15+0.15 == 0.3);//true
 ```javascript
 function satHi(){
   alert("Hello,"+arguments[0]+","+arguments[1]);
+  alert(arguments.length);
 }
 sayHi("Tom","good morning!");
-//显示Hello,Tom,good morning! 
+//显示Hello,Tom,good morning!和2
+//参数个数多余时，从前往后取参数
+//参数个数不足时，后面的是未定义Undefined
 ```
 
+比较有意思的是，尽管argument数组和参数访问的是不同的内存空间，它们的值是同步的
 
+```javascript
+    function getLog(var1,var2) {
+        arguments[1] = 100;
+        console.log(var1+var2);//值是110并不是20
+    }
+	getLog(10,10);
+```
+
+### 3.7.2没有重载
+
+ECMAScript没有函数重载，因为它的函数没有签名，如果定义了两个名字相同的函数，后者会覆盖前者。通过下面的方法可以一定程度上解决重载问题
+
+```javascript
+	function  add(num1,num2) {
+        if(arguments.length==1){
+            return num1+100;
+        }else if(arguments.length>=2){
+            return num1+num2;
+        }else {
+            return "no arguments"
+        }
+    }
+```
 
